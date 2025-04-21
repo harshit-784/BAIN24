@@ -1,4 +1,3 @@
-```markdown
 # CS425 - Assignment 3: DVR and LSR Routing Simulation
 
 This assignment implements the simulation of two fundamental routing algorithms—**Distance Vector Routing (DVR)** and **Link State Routing (LSR)** —using C++ with an adjacency matrix input to model a network of routers.
